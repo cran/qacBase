@@ -1,6 +1,6 @@
 Package: qacBase
 Title: Functions to Facilitate Exploratory Data Analysis
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: 
     c(person(given = "Kabacoff",
            family = "Robert",
@@ -49,7 +49,7 @@ Suggests: rmarkdown, knitr, kableExtra
 Imports: ggplot2, dplyr, tidyr, ggcorrplot, multcompView, PMCMRplus,
         crayon, purrr, haven, rlang, ggExtra, patchwork
 NeedsCompilation: no
-Packaged: 2022-01-08 21:55:22 UTC; rkaba
+Packaged: 2022-02-09 21:57:41 UTC; rkaba
 Author: Kabacoff Robert [aut, cre],
   Barich Griffen [ctb],
   Jamrog Kelly [ctb],
@@ -81,4 +81,4 @@ Author: Kabacoff Robert [aut, cre],
   Wong Phillip [ctb]
 Maintainer: Kabacoff Robert <rkabacoff@wesleyan.edu>
 Repository: CRAN
-Date/Publication: 2022-01-10 18:52:49 UTC
+Date/Publication: 2022-02-09 22:20:02 UTC

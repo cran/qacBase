@@ -1,4 +1,4 @@
-![ducks](ducks.png)
+![](ducks.png)
 
 # qacBase
 
@@ -12,6 +12,12 @@ The goal of the **qacBase** package is to provide **convenient statistical funct
 ### Installation
 
 You can install this package with the following code:
+
+``` r
+install.packages("qacBase")
+```
+
+To install the latest development version, use:
 
 ``` r
 if(!require(remotes)){
